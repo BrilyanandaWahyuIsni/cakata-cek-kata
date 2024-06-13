@@ -1,0 +1,5 @@
+words indonesia source:
+	- https://github.com/damzaky/kumpulan-kata-bahasa-indonesia-KBBI/tree/master 
+	- https://github.com/azzamsa/ask-indonesian-wordlist
+words english source:
+	- https://github.com/dwyl/english-words
